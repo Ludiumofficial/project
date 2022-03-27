@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [프로젝트 분류](README.md)
